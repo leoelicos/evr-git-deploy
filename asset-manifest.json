@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/evr-git-deploy/static/css/main.073c9b0a.css",
+    "main.js": "/evr-git-deploy/static/js/main.7b9a1d1f.js",
+    "static/js/787.0bfccc2a.chunk.js": "/evr-git-deploy/static/js/787.0bfccc2a.chunk.js",
+    "static/media/logo.svg": "/evr-git-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/evr-git-deploy/index.html",
+    "main.073c9b0a.css.map": "/evr-git-deploy/static/css/main.073c9b0a.css.map",
+    "main.7b9a1d1f.js.map": "/evr-git-deploy/static/js/main.7b9a1d1f.js.map",
+    "787.0bfccc2a.chunk.js.map": "/evr-git-deploy/static/js/787.0bfccc2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7b9a1d1f.js"
+  ]
+}
